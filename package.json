@@ -1,6 +1,6 @@
 {
   "name": "cradle-website",
-  "homepage": "https://github.com/sirsallas/cradlewebsite.git",
+  "homepage": "https://github.com/sirsallas/cradlecrayons.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +16,6 @@
     "styled-components": "^5.2.0"
   },
   "scripts": {
-    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
