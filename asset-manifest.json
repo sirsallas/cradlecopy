@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/sirsallas/cradlecopy/static/js/main.66cd030a.chunk.js",
+    "main.js.map": "/sirsallas/cradlecopy/static/js/main.66cd030a.chunk.js.map",
+    "runtime-main.js": "/sirsallas/cradlecopy/static/js/runtime-main.a5487fcc.js",
+    "runtime-main.js.map": "/sirsallas/cradlecopy/static/js/runtime-main.a5487fcc.js.map",
+    "static/js/2.dcc11e7e.chunk.js": "/sirsallas/cradlecopy/static/js/2.dcc11e7e.chunk.js",
+    "static/js/2.dcc11e7e.chunk.js.map": "/sirsallas/cradlecopy/static/js/2.dcc11e7e.chunk.js.map",
+    "index.html": "/sirsallas/cradlecopy/index.html",
+    "precache-manifest.2ada039dbee3d38b177c1c1e42649bb3.js": "/sirsallas/cradlecopy/precache-manifest.2ada039dbee3d38b177c1c1e42649bb3.js",
+    "service-worker.js": "/sirsallas/cradlecopy/service-worker.js",
+    "static/js/2.dcc11e7e.chunk.js.LICENSE.txt": "/sirsallas/cradlecopy/static/js/2.dcc11e7e.chunk.js.LICENSE.txt",
+    "static/media/cradle2.jpg": "/sirsallas/cradlecopy/static/media/cradle2.35a2c807.jpg",
+    "static/media/cradle3.jpg": "/sirsallas/cradlecopy/static/media/cradle3.14127d04.jpg",
+    "static/media/cradle4.jpg": "/sirsallas/cradlecopy/static/media/cradle4.34160689.jpg",
+    "static/media/cradle5.jpeg": "/sirsallas/cradlecopy/static/media/cradle5.76410dc7.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5487fcc.js",
+    "static/js/2.dcc11e7e.chunk.js",
+    "static/js/main.66cd030a.chunk.js"
+  ]
+}
