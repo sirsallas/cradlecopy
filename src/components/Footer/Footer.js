@@ -64,10 +64,11 @@ const Footer = () => {
                 <SocialMediaWrap>
                     <SocialLogo>
                         <SocialIcon/>
-                        CRADLE
+                        CRADLE TO CRAYONS CRECHE
                     </SocialLogo>
                     <WebsiteRights>
-                        Cradle 2020
+                    Opintan Avenue,
+                    Spintex Road, Ghana, +233 55 007 9734
                     </WebsiteRights>
                     <SocialIcons>
                         <SocialIconLink href='/' target="_blank" aria-label="Facebook">

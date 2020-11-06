@@ -152,6 +152,10 @@ margin-right: 10px;
 export const WebsiteRights = styled.small`
 color: #fff;
 margin-bottom: 16px;
+width:100%;
+max-width:500px;
+display: flex;
+justify-content: center;
 `
 
 export const SocialIcons = styled.div`
